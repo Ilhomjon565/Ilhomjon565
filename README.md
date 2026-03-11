@@ -1,50 +1,40 @@
-# Salom, men Ilhomjon!
+# Hi, I'm Ilhomjon! 👋
 
-**Full-stack Web Developer | Pentester | EDUCRM Creator**
+I'm a **Full-Stack Developer** and **Cybersecurity Enthusiast** based in Uzbekistan. I build scalable web applications and ensure they are secure from the ground up. Currently, I'm focused on optimizing educational systems and exploring the intersection of AI and Security.
 
-**Men asosan quyidagilar bilan ishlayman:**
-- **Frontend:** React.js · Material-UI · TailwindCSS
-- **Backend:** Node.js · Express · PostgreSQL
-- **Security:** Web Pentesting · Automation
+### 🛠 Tech Stack
 
-Hozirda **Education CRM tizimi** ustida ishlayapman.
-
----
-
-##  Texnologiyalar:
-![JavaScript](...badge...) ![Node.js](...) ![React](...) ![PostgreSQL](...) ![Git](...) ![Linux](...)
+* **Languages:** JavaScript (ES6+), Node.js, SQL
+* **Frontend:** React.js, Material-UI, TailwindCSS
+* **Backend:** Express.js, PostgreSQL, RESTful APIs
+* **DevOps & Security:** Linux (Ubuntu), VPS Deployment, PM2, Nginx, Web Pentesting
 
 ---
 
-##  GitHub Statistikam:
-![GitHub Stats](...)  
-![Top Languages](...)
+### 🚀 Featured Projects
+
+#### [EDUCRM.uz](https://educrm.uz)
+A comprehensive educational management platform designed to automate student tracking and administrative tasks.
+* *Stack:* Node.js, React, PostgreSQL.
+* *Key Achievement:* Optimized database queries for real-time analytics.
+
+#### [UIT.uz](https://uit.uz)
+Official platform for the University of Innovative Technologies. Focused on UI/UX improvements and high-performance server-side logic.
 
 ---
 
-##  Loyihalar:
-| Loyiha         | Tavsif                              | Link                         |
-|----------------|--------------------------------------|------------------------------|
-| EDUCRM         | Ta'limni avtomatlashtiruvchi tizim | [Demo / Repo](#)             |
-| Web Pentesting | Turli pentesting tajribalari        | [Repo link](#)               |
+### 📊 GitHub Stats & Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iskandarov-Ilhomjon&show_icons=true&theme=tokyonight" alt="Ilhomjon's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iskandarov-Ilhomjon&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
 
 ---
 
-##  Demo Video:
-[![EDUCRM Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+### 📫 Let's Connect
+* **Telegram:** [@csec_webcoder](https://t.me/csec_webcoder)
+* **Email:** [ilhomjoniskandarov2006@gmail.com](mailto:ilhomjoniskandarov2006@gmail.com)
+* **Portfolio:** [Iskandarov_Ilhomjon](https://upwork.com/freelancers/~01...)
 
----
-
-##  Muloqot qilish:
-- **Telegram:** [@csec_webcoder](https://t.me/csec_webcoder)  
-- **Email:** ilhomjoniskandarov2006@gmail.com
-
----
-
-##  Kutubxonalar & O‘rganish:
-- **📚 O‘rganilayotgan:** TypeScript, Next.js, Docker  
-- **⭐ Kelajakda:** AI security, DevOps
-
----
-
-> “Every day is a learning day.” – Men har kuni o‘rganaman.
+> "Focusing on writing clean code today to prevent server headaches tomorrow."
